@@ -15,7 +15,7 @@ NoMark TikSaver is provided by:
 
 Meryem Ercan
 
-Owner contact email: NoMark TikSaver.team@gmail.com
+Owner contact email: quangthu1162@gmail.com
 
 What the User should know at a glance
 Please note that some provisions in these Terms may only apply to certain categories of Users. In particular, certain provisions may only apply to Consumers or to those Users that do not qualify as Consumers. Such limitations are always explicitly mentioned within each affected clause. In the absence of any such mention, clauses apply to all Users.
